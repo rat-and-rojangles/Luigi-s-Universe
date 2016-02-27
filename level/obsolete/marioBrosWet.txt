@@ -1,0 +1,35 @@
+splashscreen level/splashscreens/level1.png
+bg world/backgrounds/mallflood.jpg
+music music/torvus.wav
+block world/blocks/cinder.png
+block world/blocks/cactus.png
+elemental world/elementalFX/rain
+gametype exterminate 1
+enemymax 10
+spawndelay 2.5
+HEADER END
+
+
+
+
+   R                                L
+00000000000000              00000000000000
+
+
+
+
+
+        00000000000000000000000000
+
+
+  000                                000
+
+
+
+1111111111111111          1111111111111111
+
+
+
+
+ r                   P                  l
+111111111111111111111111111111111111111111

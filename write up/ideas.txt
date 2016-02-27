@@ -1,0 +1,17 @@
+Possible level objectives
+
+Eliminate X enemies.
+Survive for XX:XX.
+Reach a certain area of the map.
+
+_____________________________________
+
+HUD
+
+Number of enemies defeated
+time spent in level
+distance from objective
+
+
+
+pyglet folder was named "pyglet-1.2.3a2"

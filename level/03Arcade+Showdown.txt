@@ -1,0 +1,86 @@
+splashscreen level/splashscreens/pacmanO.png
+bg world/backgrounds/bgBlack.png
+video video/pacman.mpg
+music music/pacman.wav
+
+block world/blocks/pacman/h_wall.png 0
+block world/blocks/pacman/v_wall.png 1
+block world/blocks/pacman/l_cap.png 2
+block world/blocks/pacman/r_cap.png 3 
+block world/blocks/pacman/dl_corner.png 4
+block world/blocks/pacman/dr_corner.png 5
+block world/blocks/pacman/ul_corner.png 6
+block world/blocks/pacman/ur_corner.png 7
+block world/blocks/pacman/u_cap.png 8
+block world/blocks/pacman/d_cap.png 9 
+
+gametype exterminate 10
+enemymax 4
+spawndelay 2.2
+
+nextlevel level/04Cloud+Nine.txt
+
+HEADER END
+
+
+
+
+
+
+
+
+
+5000000000000000000000000000000000000000000000000000000000000000004
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                P                                1
+1                             5000004                             1
+1     R                       1     1                       L     1
+70000004                      704 506                      50000006
+       1               8        706        8               1      
+       1               1                   1               1      
+       1   200000003   1                   1   200000003   1      
+00000006               73                 26               70000000
+      8                                                     8  
+      1                                                     1  
+      1                                                     1 
+      9     R                   203                   L     9   
+000000000000000000003                         200000000000000000000
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                      20000003      20000003                                               
+                                                                                      
+                                                                      
+                                                                            
+                                                                            
+50000000000000000000003                     20000000000000000000004
+1                                                                 1
+1                 504                        504                  1
+1                 1 1                        1 1                  1
+1                 706                        706                  1
+1                     5000003        2000004                      1
+1                     1                    1                      1
+1                     1                    1                      1
+1                     1                    1                      1
+1                     1     r       l      1                      1
+1                     7000000000000000000006                      1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1
+1                                                                 1

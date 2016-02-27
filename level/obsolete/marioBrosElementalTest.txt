@@ -1,0 +1,39 @@
+splashscreen level/splashscreens/level1.png
+
+elemental world/elementalFX/rain
+bg world/backgrounds/bgPipes.png
+
+
+music music/mystery.wav
+
+block world/blocks/arcadebrick.png
+block world/blocks/arcadeblock.png
+
+gametype exterminate 10
+enemymax 10
+spawndelay 2.5
+HEADER END
+
+
+
+   R                                L
+11111111111111              11111111111111
+
+
+
+
+
+        11111111111111111111111111
+
+
+  111                                111
+
+
+
+1111111111111111          1111111111111111
+
+
+
+
+ r                   P                  l
+000000000000000000000000000000000000000000

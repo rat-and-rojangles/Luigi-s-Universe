@@ -1,0 +1,20 @@
+Make more levels.
+
+Implement more elemental effects and animated backgrounds.
+
+Link levels.
+
+Make level select screen animation.
+
+Make a character select screen.
+
+
+
+
+_____WISH LIST_____
+
+Aesthetics: Graphical timer bar counting down to next enemy spawn.
+
+Content: Powerups
+
+Content: More enemies.

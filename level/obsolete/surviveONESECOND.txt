@@ -1,0 +1,32 @@
+splashscreen level/splashscreens/survive.png
+bg world/backgrounds/volcano.jpg
+music music/volcano.wav
+block world/blocks/cinder.png
+block world/blocks/cactus.png
+gametype survival 1
+enemymax 50
+spawndelay .5
+HEADER END
+
+
+
+
+R                                     L
+0                                     0
+0                                     0
+0             L         R             0
+0                                     0
+0                                     0
+0                                     0
+0                                     0
+0                                     0
+     000000                  000000   
+
+
+R                                     L
+
+
+                         P
+   0000000000000       0000000000000
+    0000000000000     0000000000000
+     0000000000000   0000000000000

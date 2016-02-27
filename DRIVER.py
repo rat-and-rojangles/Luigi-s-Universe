@@ -1,0 +1,3 @@
+import MainScreen
+
+MainScreen.runGame()

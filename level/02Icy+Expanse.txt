@@ -1,0 +1,56 @@
+splashscreen level/splashscreens/icyO.png
+bg world/backgrounds/bgPhendrana.png
+music music/phendrana.wav
+
+#elemental world/elementalFX/snow
+
+block world/blocks/cold/snow.png
+block world/blocks/cold/snowCornerR.png
+block world/blocks/cold/snowCornerL.png
+block world/blocks/cold/snowBottomR.png
+block world/blocks/cold/snowBottomL.png
+block world/blocks/cold/snowBottom.png
+block world/blocks/cold/snowRough.png
+block world/blocks/cold/snowCornerRSmooth.png
+block world/blocks/cold/snowCornerLSmooth.png
+
+gametype exterminate 15
+enemymax 20
+spawndelay 2.25
+
+nextlevel level/03Arcade+Showdown.txt
+HEADER END
+
+
+
+
+
+
+
+
+
+
+
+    R                               L
+66666666666661              26666666666666
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+            266666666666666661
+                                             
+                                             
+                                             
+   R                                  L
+666661                              266666
+      261                        261
+         266661            266661
+                          
+
+
+                     P             
+          8000000000000000000007
+          4555555555555555555553

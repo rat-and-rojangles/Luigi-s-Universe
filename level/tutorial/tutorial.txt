@@ -1,0 +1,66 @@
+splashscreen level/splashscreens/level1.png
+bg world/backgrounds/bgSky.png
+music music/resurrection_state.wav
+
+message Spiked creatures are bad news. Don't touch them.@Of course, this is first grade for an experienced plumber such as yourself.
+message You can flip the creatures by bumping the blocks below them.@Enemies are helpless while flipped and can be taken out by running into them.
+message Be careful. Flipped enemies stand back up after one second.@An enemy still struggling to get back up is still vulnerable to the usual means of disposal.
+message Enemies crawl into pipes, but plumbers can't fit.@You can't stand on them either, but you're free to walk in front of them.
+message The abyss is unforgiving. Mind the gap.
+message Reaching the end of the screen warps you back to the other side.@This works both ways. Give it a try!
+message Press ESCAPE or ENTER to pause the game and access the pause menu.@This is the only way to exit the tutorial, which you have now completed.@Please enjoy the rest of the universe. Good luck.
+
+
+gametype exterminate 15
+enemymax 4
+spawndelay 2
+HEADER END
+              X
+              X
+              X
+              X
+              X
+              X
+              X
+              X
+              X
+              X                                                                                                                                                              
+              X                                                X                                                                                                             
+              X                                                X                                                                                                             
+              X                                                X                                                                                                             
+              X                                                X     R                                                                                                                                          
+      6       X                                                XXXXXXXXXXXXX
+              X                                                            X                                                                                                                                    
+              X                                                            X                                                                                                                                    
+             X                                                             X                                                                                                                                                                                                    
+            X                                                              X                                                                                                                                                                                                    
+           X                                                               X          X                                                                                                                                                                                          
+          X                                                                X    XXXXXXX                                                                                                                                                                                          
+XXXXXXXXXX                                                                 X                                                                                                   XXXX                                                                                                 
+                                                                           X                                                                                                  X                                                                                                  
+                                                                           X                X                                                                                X                                                                                                                                                                                                                                                                                
+                                                                           X                X                                                                               X                                                                                                                                            
+                                                                        3  X                X                                                         5                    X                                                                                                                                           
+                                                                           X         l      X                    4                                                 XXXXXXXX                                                                                                                                                       
+                                                                           XXXXXXXXXXXXXXXXXX    XXX                                                                                                                                                                                                                                        
+                                1                                                                                                                                                                                                                                                                                      
+                                                     X                                                                                                                                                                                                                                                                   
+      C                    0                         X                                                                                                                                                                                                                                                                              
+                                                     X                                                                                                                                                                                                                                                                     
+                                       X       L     X      2                                                                                                                                                                                                                                                               
+                                       XXXXXXXXXXXXXXX                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                           
+                                                                      X                                             X       X                                  XX                                                   
+                                                                      X                                            X        XXXXXXXX                             XX                                                         
+                                                                      X                                           X                X                               XX                                                                                                                                                                                                                                    
+                              XXXXXX                                  X                                          X                 X                                 XX                                                                                                                                                                                           
+                              X    X                                  X                                          X                 X                                   XX                                                                                                                                                                                            
+                         XXXXXX    X                                  X                                          X           L     X                                     XX                                                                                                                                                                                                    
+                         X         X                                  X                                          X           XXXXXXX                                       XX                                                                                                                                                                           
+XXXXXXX       XXXXXXXXXXXX         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                          X            X                                              XXXXXX                                                                                                                                                                            
+      XX  P  XX                                                                                                  X             X                                                                                                                                                                                    
+       XXXXXXX                                                                                                   X             X           
+        XXXXX                                                                                                    X             X          
+                                                                                                                 X             X                                              
+                                                                                                                 X             X                                              
+                                                                                                                 X             X                                              
+                                                                                                                 X             X                                              
